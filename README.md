@@ -16,3 +16,6 @@ cat /home/$USER/.ssh/id_rsa.pub
 
 Copy the public key to git's access key section.
 
+## install or upgrade maven in centos
+
+https://phoenixnap.com/kb/how-to-install-apache-maven-on-centos-7
